@@ -1,1 +1,1 @@
-# Learning-based-comms-system-using-autoencoder-and-CGAN
+# Learning-based-comms-system-using-autoencoder-and-CGAN-VAE
